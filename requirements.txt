@@ -1,0 +1,5 @@
+schedule==1.1.0
+dataframe-image==0.1.1
+pandas==1.2.5
+python-telegram-bot==13.0
+telegram==0.0.1
